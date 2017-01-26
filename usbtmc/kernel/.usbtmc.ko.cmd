@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/usbtmc/kernel/usbtmc.ko := ld -EL -r  -T /usr/src/linux-headers-3.10.40-gdacac96/scripts/module-common.lds --build-id  -o /home/ubuntu/usbtmc/kernel/usbtmc.ko /home/ubuntu/usbtmc/kernel/usbtmc.o /home/ubuntu/usbtmc/kernel/usbtmc.mod.o

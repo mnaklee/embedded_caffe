@@ -1,0 +1,71 @@
+n02112706  Brabancon griffon
+n02113023  Pembroke, Pembroke Welsh corgi
+n02113186  Cardigan, Cardigan Welsh corgi
+n02113624  toy poodle
+n02113712  miniature poodle
+n02113799  standard poodle
+n02113978  Mexican hairless 
+n02123045  tabby, tabby cat 
+n02123159  tiger cat
+n02123394  Persian cat
+n02123597  Siamese cat, Siamese
+n02124075  Egyptian cat
+n02701002  ambulance
+n02704792  amphibian, amphibious vehicle
+n02747177  ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+n02791124  barber chair
+n02795169  barrel, cask                   
+n02797295  barrow, garden cart, lawn cart, wheelbarrow
+n02814533  beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+n02835271  bicycle-built-for-two, tandem bicycle, tandem
+n02917067  bullet train, bullet
+n02930766  cab, hack, taxi, taxicab
+n02971356  carton
+n02977058  cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM
+n03045698  human
+n03100240  convertible
+n03126707  crane
+n03127925  crate
+n03179701  desk
+n03201208  dining table, board
+n03272562  electric locomotive
+n03345487  fire engine, fire truck
+n03384352  forklift
+n03393912  freight car
+n03404251  human
+n03417042  garbage truck, dustcart
+n03444034  go-kart
+n03445924  golfcart, golf cart
+n03459775  grille, radiator grille
+n03478589  half track
+n03594734  human
+n03594945  jeep, landrover
+n03595614  human
+n03599486  jinrikisha, ricksha, rickshaw
+n03630383  human
+n03642806  laptop, laptop computer
+n03649909  lawn mower, mower
+n03670208  limousine, limo
+n03710637  maillot
+n03710721  maillot, tank suit
+n03769881  minibus
+n03770439  hot girl
+n03770679  minivan
+n03777568  Model T
+n03785016  moped
+n03791053  motor scooter, scooter
+n03792782  mountain bike, all-terrain bike, off-roader
+n03796401  moving van
+n03891251  park bench
+n03899768  patio, terrace
+n03902125  pay-phone, pay-station
+n03977966  police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria
+n04065272  recreational vehicle, RV, R.V.
+n04238763  slide rule, slipstick
+n04370456  human
+n04479046  human
+n04507155  human
+n04604644  worm fence, snake fence, snake-rail fence, Virginia fence
+n06794110  street sign
+n06874185  traffic light, traffic signal, stoplight
+n07878787  crosswalk
